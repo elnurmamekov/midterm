@@ -1,0 +1,157 @@
+*{
+  font-family: Montserrat;
+}
+
+html, body {
+  height: 100%;
+}
+
+#title {
+  background-color: #343A40;
+  margin-bottom: 10px;
+}
+
+.container .slogan{
+  padding-top: 15px;
+}
+
+.slogan a{
+  color: #F0A034;
+}
+
+.slogan h1{
+  letter-spacing: 10px;
+  font-size: 300%;
+  text-decoration: none;
+}
+
+.slogan a:hover{
+  color: #F0A034;
+  text-decoration: none;
+}
+
+.slogan p{
+  color: white;
+  font-size: 110%;
+  letter-spacing: 2px;
+}
+
+.nav-link {
+  margin-right: 20px;
+  color: white !important;
+}
+
+a.nav-link:hover{
+  background-color: #346270 !important;
+  border-radius: 5px;
+}
+
+a.nav-link:focus{
+  background-color: #346270 !important;
+  border-radius: 5px;
+}
+
+a.nav-link:active{
+  background-color: blue;
+
+}
+
+.clear {
+  clear: both;
+  height: 43px;
+}
+
+.wrapper {
+  min-height: 100%;
+}
+
+
+.card-body {
+  background-color: #f9f9f9;
+}
+
+.card-info>.card-header{
+  background-color: #f0ad4e;
+  color: white;
+  border-color: transparent;
+}
+
+.sidebar-header{
+  font-size: 120%;
+  letter-spacing: 2px;
+}
+
+.form-control {
+  font-size: 14px;
+}
+
+.input-lg{
+  font-size: 14px;
+}
+
+.search-btn{
+  border: solid 0.1px #CED4DA !important;
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  background-color: #F0AD4E !important;
+}
+
+.film-block {
+  text-align: center;
+}
+
+.film-block img{
+  margin-bottom: 5%;
+  border-radius: 5px;
+  border: solid 5px #dad7d5;
+  width: 100%;
+}
+
+.film-block-2 img{
+  align:center;
+  margin-bottom: 5%;
+  border-radius: 5px;
+  border: solid 5px #dad7d5;
+  width: 96%;
+}
+
+.film-label {
+  padding: 2%;
+  margin-bottom: 4%;
+}
+
+.margin-sep {
+  margin-top: 5%;
+}
+
+.info-block {
+  font-size: 120%;
+}
+
+.info-block span{
+  margin-right: 3%;
+}
+
+.info-description{
+  font-size: 100%;
+}
+
+footer {
+  background-color: #222;
+  color: #666;
+  padding: 20px 0 10px 0;
+}
+
+footer a{
+  color: #F0A034;
+}
+
+footer a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.text-center {
+  font-family: Montserrat;
+  font-size: 1.1em;
+}
